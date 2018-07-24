@@ -5,3 +5,5 @@
 /RedisTutorial/obj/x86/Debug
 /RedisTutorial/bin/Debug
 /.vs/RedisTutorial/v15
+/.vs
+/RedisTutorial/obj/x86/Release
