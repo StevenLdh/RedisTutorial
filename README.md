@@ -1,1 +1,1 @@
-"# RedisTutorial  这是一个迭代版本" 
+"# RedisTutorial  这是Redis的使用研究简单版" 

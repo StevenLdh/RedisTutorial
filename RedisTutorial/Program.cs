@@ -68,6 +68,7 @@ namespace RedisTutorial
                     {
                         Console.WriteLine("Redis Has a ->" + car.Title);
                     }
+                   
 
                 }
             }
